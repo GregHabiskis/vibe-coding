@@ -1,2 +1,2 @@
-# Privacypicks
-A curated list of free, open-source, and privacy-focused applications and resources.
+# Vide Coding
+This repo mainly contains websites and apps created using AI Tools
